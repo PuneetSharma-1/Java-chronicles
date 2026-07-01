@@ -9,6 +9,7 @@ public class Break {
             break;
             case 2:
             System.out.println(i+5);
+            break;
         }
     }
     
